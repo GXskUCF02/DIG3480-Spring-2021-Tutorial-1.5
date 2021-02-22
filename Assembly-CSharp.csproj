@@ -36,7 +36,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\AudioPlayerScript.cs" />
+     <Compile Include="Assets\Scripts\AudioPlayerScript.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.0f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -234,9 +234,6 @@
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
         <HintPath>C:/Users/X12GD/UNITY PROJECTS/UCF/SPRING 2021/DIG3480 SPRING 2021 TUTORIAL 1.5/Project/Tutorial 1.5/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.Purchasing">
-        <HintPath>C:/Users/X12GD/UNITY PROJECTS/UCF/SPRING 2021/DIG3480 SPRING 2021 TUTORIAL 1.5/Project/Tutorial 1.5/Library/PackageCache/com.unity.purchasing@2.0.6/UnityEngine.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.0f1/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -601,9 +598,6 @@
     <Reference Include="Unity.2D.Animation.Runtime">
         <HintPath>C:/Users/X12GD/UNITY PROJECTS/UCF/SPRING 2021/DIG3480 SPRING 2021 TUTORIAL 1.5/Project/Tutorial 1.5/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.2D.PixelPerfect.Editor">
-        <HintPath>C:/Users/X12GD/UNITY PROJECTS/UCF/SPRING 2021/DIG3480 SPRING 2021 TUTORIAL 1.5/Project/Tutorial 1.5/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.VSCode.Editor">
         <HintPath>C:/Users/X12GD/UNITY PROJECTS/UCF/SPRING 2021/DIG3480 SPRING 2021 TUTORIAL 1.5/Project/Tutorial 1.5/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
@@ -658,9 +652,6 @@
     <Reference Include="Unity.2D.SpriteShape.Runtime">
         <HintPath>C:/Users/X12GD/UNITY PROJECTS/UCF/SPRING 2021/DIG3480 SPRING 2021 TUTORIAL 1.5/Project/Tutorial 1.5/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.2D.PixelPerfect">
-        <HintPath>C:/Users/X12GD/UNITY PROJECTS/UCF/SPRING 2021/DIG3480 SPRING 2021 TUTORIAL 1.5/Project/Tutorial 1.5/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.2D.Animation.Editor">
         <HintPath>C:/Users/X12GD/UNITY PROJECTS/UCF/SPRING 2021/DIG3480 SPRING 2021 TUTORIAL 1.5/Project/Tutorial 1.5/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
     </Reference>
@@ -693,6 +684,12 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
         <HintPath>C:/Users/X12GD/UNITY PROJECTS/UCF/SPRING 2021/DIG3480 SPRING 2021 TUTORIAL 1.5/Project/Tutorial 1.5/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.PixelPerfect.Editor">
+        <HintPath>C:/Users/X12GD/UNITY PROJECTS/UCF/SPRING 2021/DIG3480 SPRING 2021 TUTORIAL 1.5/Project/Tutorial 1.5/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.PixelPerfect">
+        <HintPath>C:/Users/X12GD/UNITY PROJECTS/UCF/SPRING 2021/DIG3480 SPRING 2021 TUTORIAL 1.5/Project/Tutorial 1.5/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
